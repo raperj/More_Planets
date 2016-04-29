@@ -1,6 +1,4 @@
 Saturn has lots or rings
-<<<<<<< HEAD
 jon's edits
-=======
 puneet's changes
->>>>>>> d24d1ceac3918a77fdd1e45d2d2efdc51708b13b
+
